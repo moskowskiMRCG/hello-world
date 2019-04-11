@@ -1,2 +1,2 @@
 # hello-world
-GitHub Tutorial to create hello-world repository
+First edit since initial repository created.
